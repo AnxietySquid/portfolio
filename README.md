@@ -42,6 +42,6 @@
 [Создание автоматизированной ИИ-диагностики световых систем](https://ai-hunter.ru/unilait)
 
 ## Контактная информация
-Связаться со мной можно одним из следующих способов:
-[Telegram](https://t.me/anxiety_squid)  
-E-mail anxietysquid@yandex.ru
+Связаться со мной можно одним из следующих способов:  
+- [Telegram](https://t.me/anxiety_squid)  
+- E-mail anxietysquid@yandex.ru

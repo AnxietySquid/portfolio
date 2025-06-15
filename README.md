@@ -10,9 +10,9 @@
 
 
 ## Дополнительное образование
-🎓 Разработчик нейросетей [The founder](https://academy.the-founder.ru)
-🎓 Основы web-разработки, [Stepik](https://stepik.org/)
-🎓 Основы SQL, [Stepik](https://stepik.org/)
+🎓 Разработчик нейросетей [The founder](https://academy.the-founder.ru)  
+🎓 Основы web-разработки, [Stepik](https://stepik.org/)  
+🎓 Основы SQL, [Stepik](https://stepik.org/)  
 🎓 MTCNA, сетевые курсы
 
 ## Проекты

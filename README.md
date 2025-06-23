@@ -37,7 +37,7 @@
 [Ссылка на проект](https://github.com/AnxietySquid/parkinsons_detection)
 
 🚀 ИИ-консультант по машинному обучению
-[Ссылка на проект](https://academy.the-founder.ru/)
+[Ссылка на проект](https://github.com/AnxietySquid/neuro_cons)
 
 🚀  Анализ продуктовых чеков по фотографии
 [Ссылка на проект](https://github.com/AnxietySquid/receipt_recognition)

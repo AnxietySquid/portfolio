@@ -13,8 +13,8 @@
 ## Дополнительное образование
 🎓 Разработчик нейросетей [The founder](https://academy.the-founder.ru)  
 🎓 Основы web-разработки, [Stepik](https://stepik.org/cert/2741632)  
-🎓 Основы SQL, [Stepik](https://stepik.org/)
-🎓 PRO Kotlin. Основы программирования, [Stepik](https://stepik.org/cert/2916162) 
+🎓 Основы SQL, [Stepik](https://stepik.org/)  
+🎓 PRO Kotlin. Основы программирования, [Stepik](https://stepik.org/cert/2916162)   
 🎓 MTCNA, сетевые курсы
 
 ---

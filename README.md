@@ -47,10 +47,18 @@
 ---
 ## Проекты, в которых я учавствовал и которые были успешно  внедрены в работу
 
+
 [Распознавание трещин в  горных породах](https://ai-hunter.ru/endoscope)  
+***Стек: RoboFlow, YOLO***  
+
 [Анализ износа колёс локомотивов](https://ai-hunter.ru/iznoskoles)  
+***Стек: numpy, padnas, matplotlib***  
+
 [Персонализированный ИИ-подбор производителей текстиля для заказов клиентов](https://ai-hunter.ru/niitst)  
-[Создание автоматизированной ИИ-диагностики световых систем](https://ai-hunter.ru/unilait)
+***Стек: numpy, pandas, Word2Vec, Doc2Vec***  
+
+[Создание автоматизированной ИИ-диагностики световых систем](https://ai-hunter.ru/unilait)  
+***Стек: numpy, pandas, nltk, LangChain, FAISS, Mistral***  
 
 ---
 
